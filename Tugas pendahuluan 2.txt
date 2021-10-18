@@ -1,0 +1,5 @@
+NAMA	: SHINTA CRYSDIANA DEWI
+NIM	: 60900119023
+KELAS	: B
+MATKUL	: PRAKTIKUM KAKAS PENGEMBANGAN PL
+TP2	: Tahap membuat repository dari local sampai pada proses mengirim kedalam github 
